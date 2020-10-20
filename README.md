@@ -1,3 +1,4 @@
+![2020-10-20](https://user-images.githubusercontent.com/62276215/96561096-c14baf80-12dc-11eb-8620-5686f1c0eda9.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
