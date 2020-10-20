@@ -1,0 +1,18 @@
+.jumbotron {
+   /* background: #8e44ad; */
+   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(51, 46, 46, 0.5)),url(https://c4.wallpaperflare.com/wallpaper/790/174/403/cuisine-food-india-indian-wallpaper-preview.jpg);
+
+   color: white;
+   padding: 100px 0;
+   text-align: center;
+}
+
+.jumbotron-image {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+.brand-icon {
+   font-size: 100px;
+}
